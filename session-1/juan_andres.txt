@@ -1,8 +1,0 @@
-nombre: Juan Andres Ruiz 
-edad:21
-Programa academico: Ingenieria de sistemas
-semestre actual: 6
-Algo extraño que me guste hacer: Jugar en consolas
-Color favorito: Negro
-¿tienes mascotas?: si, un perro - se llama krooss
-Interes en desarrollo de software: desarrollo en web, apps moviles
